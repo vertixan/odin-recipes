@@ -1,2 +1,2 @@
 # odin-recipes
-Basic HTML Website Practie
+Basic HTML Website Practice
